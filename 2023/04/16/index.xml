@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cobench time="2023-04-16 14:19:16 +0000" days="28">
+  <titles>
+    <title>Commits</title>
+    <title>HoC</title>
+    <title>Pulls</title>
+    <title>LcP</title>
+    <title>Reviews</title>
+    <title>Msgs</title>
+    <title>Issues</title>
+    <title>Score</title>
+    <title subtitle="Commits per Pull Request">CpP</title>
+    <title subtitle="HoC per Pull Request">HpP</title>
+    <title subtitle="HoC per Commit">HpC</title>
+    <title subtitle="Messages per Review+Pulls">MpRP</title>
+  </titles>
+  <weights>
+    <w id="HoC">1</w>
+    <w id="Pulls">250</w>
+    <w id="Issues">50</w>
+    <w id="Commits">5</w>
+    <w id="Reviews">150</w>
+    <w id="Msgs">5</w>
+    <w id="LcP">0</w>
+  </weights>
+  <totals>
+    <w id="Commits">207</w>
+    <w id="HoC">23655</w>
+    <w id="Pulls">59</w>
+    <w id="LcP">32</w>
+    <w id="Reviews">29</w>
+    <w id="Msgs">109</w>
+    <w id="Issues">85</w>
+  </totals>
+  <averages>
+    <w id="Commits">69</w>
+    <w id="HoC">7885</w>
+    <w id="Pulls">19</w>
+    <w id="LcP">16</w>
+    <w id="Reviews">14</w>
+    <w id="Msgs">54</w>
+    <w id="Issues">42</w>
+    <w id="CpP">3</w>
+    <w id="HpP">347</w>
+    <w id="HpC">85</w>
+    <w id="MpRP">1</w>
+  </averages>
+  <coders>
+    <coder id="h1alexbel" details="Aliaksei Bialiauski">
+      <orgs>
+        <org>eo-cqrs</org>
+        <org>yegor256</org>
+      </orgs>
+      <metrics>
+        <m id="Commits" href="https://github.com/search?q=author%3Ah1alexbel+author-date%3A%3E2023-03-19+is%3Apublic+merge%3Afalse">123</m>
+        <m id="HoC">14279</m>
+        <m id="Pulls" href="https://github.com/search?q=in%3Acomments+type%3Apr+author%3Ah1alexbel+is%3Amerged+merged%3A%3E2023-03-19">42</m>
+        <m id="LcP">0</m>
+        <m id="Reviews" href="https://github.com/search?q=reviewed-by%3Ah1alexbel+merged%3A%3E2023-03-19">23</m>
+        <m id="Msgs">82</m>
+        <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Ah1alexbel+created%3A%3E2023-03-19">71</m>
+        <m id="Score">32804</m>
+        <m id="CpP">2</m>
+        <m id="HpP">339</m>
+        <m id="HpC">116</m>
+        <m id="MpRP">1</m>
+      </metrics>
+    </coder>
+    <coder id="l3r8yj" details="Ivan Ivanchuk">
+      <orgs>
+        <org>eo-cqrs</org>
+      </orgs>
+      <metrics>
+        <m id="Commits" href="https://github.com/search?q=author%3Al3r8yj+author-date%3A%3E2023-03-19+is%3Apublic+merge%3Afalse">78</m>
+        <m id="HoC">9244</m>
+        <m id="Pulls" href="https://github.com/search?q=in%3Acomments+type%3Apr+author%3Al3r8yj+is%3Amerged+merged%3A%3E2023-03-19">14</m>
+        <m id="LcP">30</m>
+        <m id="Reviews" href="https://github.com/search?q=reviewed-by%3Al3r8yj+merged%3A%3E2023-03-19">6</m>
+        <m id="Msgs">27</m>
+        <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Al3r8yj+created%3A%3E2023-03-19">14</m>
+        <m id="Score">14869</m>
+        <m id="CpP">5</m>
+        <m id="HpP">660</m>
+        <m id="HpC">118</m>
+        <m id="MpRP">1</m>
+      </metrics>
+    </coder>
+    <coder id="nikituz18" details="">
+      <orgs>
+        <org>eo-cqrs</org>
+      </orgs>
+      <metrics>
+        <m id="Commits" href="https://github.com/search?q=author%3Anikituz18+author-date%3A%3E2023-03-19+is%3Apublic+merge%3Afalse">6</m>
+        <m id="HoC">132</m>
+        <m id="Pulls" href="https://github.com/search?q=in%3Acomments+type%3Apr+author%3Anikituz18+is%3Amerged+merged%3A%3E2023-03-19">3</m>
+        <m id="LcP">2</m>
+        <m id="Reviews" href="https://github.com/search?q=reviewed-by%3Anikituz18+merged%3A%3E2023-03-19">0</m>
+        <m id="Msgs">0</m>
+        <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Anikituz18+created%3A%3E2023-03-19">0</m>
+        <m id="Score">912</m>
+        <m id="CpP">2</m>
+        <m id="HpP">44</m>
+        <m id="HpC">22</m>
+        <m id="MpRP" hideZero="yes">0</m>
+      </metrics>
+    </coder>
+  </coders>
+</cobench>
