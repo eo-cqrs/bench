@@ -1,0 +1,10 @@
+--days=28
+--delay=1200
+
+--include=eo-cqrs/*
+--include=objectionary/*
+--include=yegor256/rultor
+
+--coder=h1alexbel
+--coder=l3r8yJ
+--coder=NikiTuz18
