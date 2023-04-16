@@ -1,2 +1,1 @@
-# bench
-Cobench Stats
+[![cobench](https://github.com/eo-cqrs/bench/actions/workflows/cobench.yml/badge.svg)](https://github.com/eo-cqrs/bench/actions/workflows/cobench.yml)
