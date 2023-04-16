@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cobench time="2023-04-16 14:32:59 +0000" days="28">
+<cobench time="2023-04-16 23:40:08 +0000" days="28">
   <titles>
     <title>Commits</title>
     <title>HoC</title>
@@ -24,8 +24,8 @@
     <w id="LcP">0</w>
   </weights>
   <totals>
-    <w id="Commits">207</w>
-    <w id="HoC">23655</w>
+    <w id="Commits">208</w>
+    <w id="HoC">24063</w>
     <w id="Pulls">59</w>
     <w id="LcP">32</w>
     <w id="Reviews">29</w>
@@ -34,15 +34,15 @@
   </totals>
   <averages>
     <w id="Commits">69</w>
-    <w id="HoC">7885</w>
+    <w id="HoC">8021</w>
     <w id="Pulls">19</w>
     <w id="LcP">16</w>
     <w id="Reviews">14</w>
     <w id="Msgs">54</w>
     <w id="Issues">42</w>
     <w id="CpP">3</w>
-    <w id="HpP">347</w>
-    <w id="HpC">85</w>
+    <w id="HpP">356</w>
+    <w id="HpC">86</w>
     <w id="MpRP">1</w>
   </averages>
   <coders>
@@ -52,17 +52,17 @@
         <org>yegor256</org>
       </orgs>
       <metrics>
-        <m id="Commits" href="https://github.com/search?q=author%3Ah1alexbel+author-date%3A%3E2023-03-19+is%3Apublic+merge%3Afalse">123</m>
-        <m id="HoC">14279</m>
+        <m id="Commits" href="https://github.com/search?q=author%3Ah1alexbel+author-date%3A%3E2023-03-19+is%3Apublic+merge%3Afalse">124</m>
+        <m id="HoC">14374</m>
         <m id="Pulls" href="https://github.com/search?q=in%3Acomments+type%3Apr+author%3Ah1alexbel+is%3Amerged+merged%3A%3E2023-03-19">42</m>
         <m id="LcP">0</m>
         <m id="Reviews" href="https://github.com/search?q=reviewed-by%3Ah1alexbel+merged%3A%3E2023-03-19">23</m>
         <m id="Msgs">82</m>
         <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Ah1alexbel+created%3A%3E2023-03-19">71</m>
-        <m id="Score">32804</m>
+        <m id="Score">32904</m>
         <m id="CpP">2</m>
-        <m id="HpP">339</m>
-        <m id="HpC">116</m>
+        <m id="HpP">342</m>
+        <m id="HpC">115</m>
         <m id="MpRP">1</m>
       </metrics>
     </coder>
@@ -72,16 +72,16 @@
       </orgs>
       <metrics>
         <m id="Commits" href="https://github.com/search?q=author%3Al3r8yj+author-date%3A%3E2023-03-19+is%3Apublic+merge%3Afalse">78</m>
-        <m id="HoC">9244</m>
+        <m id="HoC">9557</m>
         <m id="Pulls" href="https://github.com/search?q=in%3Acomments+type%3Apr+author%3Al3r8yj+is%3Amerged+merged%3A%3E2023-03-19">14</m>
         <m id="LcP">30</m>
         <m id="Reviews" href="https://github.com/search?q=reviewed-by%3Al3r8yj+merged%3A%3E2023-03-19">6</m>
         <m id="Msgs">27</m>
         <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Al3r8yj+created%3A%3E2023-03-19">14</m>
-        <m id="Score">14869</m>
+        <m id="Score">15182</m>
         <m id="CpP">5</m>
-        <m id="HpP">660</m>
-        <m id="HpC">118</m>
+        <m id="HpP">682</m>
+        <m id="HpC">122</m>
         <m id="MpRP">1</m>
       </metrics>
     </coder>
