@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cobench time="2023-04-27 11:13:15 +0000" days="28">
+<cobench time="2023-04-27 23:37:48 +0000" days="28">
   <titles>
     <title>Commits</title>
     <title>HoC</title>
@@ -30,7 +30,7 @@
     <w id="LcP">29</w>
     <w id="Reviews">34</w>
     <w id="Msgs">70</w>
-    <w id="Issues">61</w>
+    <w id="Issues">65</w>
   </totals>
   <averages>
     <w id="Commits">44</w>
@@ -39,7 +39,7 @@
     <w id="LcP">14</w>
     <w id="Reviews">17</w>
     <w id="Msgs">35</w>
-    <w id="Issues">30</w>
+    <w id="Issues">32</w>
     <w id="CpP">2</w>
     <w id="HpP">252</w>
     <w id="HpC">79</w>
@@ -58,8 +58,8 @@
         <m id="LcP">0</m>
         <m id="Reviews" href="https://github.com/search?q=reviewed-by%3Ah1alexbel+merged%3A%3E2023-03-30">29</m>
         <m id="Msgs">61</m>
-        <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Ah1alexbel+created%3A%3E2023-03-30">50</m>
-        <m id="Score">22185</m>
+        <m id="Issues" href="https://github.com/search?q=in%3Acomments+type%3Aissue+author%3Ah1alexbel+created%3A%3E2023-03-30">54</m>
+        <m id="Score">22385</m>
         <m id="CpP">2</m>
         <m id="HpP">253</m>
         <m id="HpC">88</m>
