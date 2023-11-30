@@ -22,7 +22,7 @@ jobs:
       - run: cobench --verbose --token ${{ secrets.TOKEN }} --to gh-pages
       - run: mkdir -p gh-pages/$(date +'%Y/%m/%d')
       - run: cp gh-pages/index.xml gh-pages/$(date +'%Y/%m/%d')/index.xml
-      - uses: JamesIves/github-pages-deploy-action@4.1.4
+      - uses: JamesIves/github-pages-deploy-action@v4.5.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
